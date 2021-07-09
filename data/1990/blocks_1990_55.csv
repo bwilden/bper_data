@@ -1,4 +1,4 @@
-state,county,tract,block,aian,api,black,hispanic,other,white
+state_code,county,tract,block,aian,api,black,hispanic,other,white
 55,001,9501,101,0,0,0,0,0,5
 55,001,9501,102,0,0,0,0,0,15
 55,001,9501,103,0,3,0,0,0,11

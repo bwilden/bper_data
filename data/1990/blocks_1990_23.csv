@@ -1,4 +1,4 @@
-state,county,tract,block,aian,api,black,hispanic,other,white
+state_code,county,tract,block,aian,api,black,hispanic,other,white
 23,001,0101,101,0,0,1,1,0,33
 23,001,0101,102,0,0,4,0,0,18
 23,001,0101,105,0,0,0,0,0,0

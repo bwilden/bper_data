@@ -1,4 +1,4 @@
-state,county,tract,block,aian,api,black,hispanic,other,white
+state_code,county,tract,block,aian,api,black,hispanic,other,white
 15,001,020100,1000,0,1,0,0,0,0
 15,001,020100,1001,0,0,0,0,0,0
 15,001,020100,1002,2,58,0,13,62,35

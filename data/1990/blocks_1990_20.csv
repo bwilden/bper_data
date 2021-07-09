@@ -1,4 +1,4 @@
-state,county,tract,block,aian,api,black,hispanic,other,white
+state_code,county,tract,block,aian,api,black,hispanic,other,white
 20,001,9526,101,0,0,0,0,0,7
 20,001,9526,103,0,0,0,0,0,7
 20,001,9526,105B,0,0,0,0,0,12

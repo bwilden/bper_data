@@ -1,4 +1,4 @@
-state,county,tract,block,aian,api,black,hispanic,other,white
+state_code,county,tract,block,aian,api,black,hispanic,other,white
 46,003,973600,1000,0,0,0,0,0,1
 46,003,973600,1001,0,0,0,0,0,5
 46,003,973600,1002,0,0,0,0,0,4

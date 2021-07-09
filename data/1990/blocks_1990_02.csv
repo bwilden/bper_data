@@ -1,4 +1,4 @@
-state,county,tract,block,aian,api,black,hispanic,other,white
+state_code,county,tract,block,aian,api,black,hispanic,other,white
 02,013,9900,101A,0,0,0,0,0,0
 02,013,9900,101C,4,0,0,0,0,0
 02,013,9900,102,6,0,0,0,0,0
