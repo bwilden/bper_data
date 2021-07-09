@@ -17,7 +17,7 @@ blocks_1990 <- read_csv(here("data-raw", "nhgis_ds120_1990_block.csv")) %>%
 for (state_code in unique(blocks_1990$state)) {
   blocks_1990 %>%
     filter(state == state_code) %>%
-    write_csv(here("data", "1990", paste0("blocks_1990_", state_code)))
+    write_csv(here("data", "1990", paste0("blocks_1990_", state_code, ".csv")))
 }
 
 
@@ -37,7 +37,7 @@ blocks_2000 <- read_csv(here("data-raw", "nhgis_ds147_2000_block.csv")) %>%
 for (state_code in unique(blocks_2000$state)) {
   blocks_2000 %>%
     filter(state == state_code) %>%
-    write_csv(here("data", "2000", paste0("blocks_2000_", state_code)))
+    write_csv(here("data", "2000", paste0("blocks_2000_", state_code, ".csv")))
 }
 
 
@@ -57,5 +57,5 @@ blocks_2010 <- read_csv(here("data-raw", "nhgis_ds172_2010_block.csv")) %>%
 for (state_code in unique(blocks_2010$state)) {
   blocks_2010 %>%
     filter(state == state_code) %>%
-    write_csv(here("data", "2010", paste0("blocks_2010_", state_code)))
+    write_csv(here("data", "2010", paste0("blocks_2010_", state_code, ".csv")))
 }
